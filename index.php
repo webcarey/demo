@@ -57,7 +57,7 @@
                     <div class="col-lg-4 mb-4">
                       <h6 class="font-weight-bold text-uppercase">Our Products</h6>
                       <ul class="list-unstyled">
-                        <li class="nav-item"><a href="http://sma.igxprodus.com/" target="_blank" class="nav-link text-small pb-2">
+                        <li class="nav-item"><a href="https://igxprodus.com/stockmgnt-prodpg" target="_blank" class="nav-link text-small pb-2">
                             <!--<li class="nav-item"><a href="javascript:void(0)"  class="nav-link common-modal-open text-small pb-2">-->
                             <!--<li class="nav-item dropdown megamenu"><a id="megamneu" href="javascript:void(0)" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link common-modal-open dropdown-toggle font-weight-bold text-uppercase">-->
 						<i class="fa fa-stack-overflow green-icon"></i>
@@ -65,13 +65,13 @@
 						
 						
 						</a></li>
-                        <li class="nav-item"><a href="http://cms.igxprodus.com/" target="_blank" class="nav-link text-small pb-2 ">
+                        <li class="nav-item"><a href="https://igxprodus.com/clinicmgmt-prodpg/" target="_blank" class="nav-link text-small pb-2 ">
 						<i class="fa fa-hospital-o red-icon"></i>
 						Clinic Management System</a></li>
-						<li class="nav-item"><a href="http://crm.igxprodus.com/" target="_blank" class="nav-link text-small pb-2 ">
+						<li class="nav-item"><a href="https://igxprodus.com/crm-prodpg/" target="_blank" class="nav-link text-small pb-2 ">
 						<i class="fa fa-handshake-o red-icon"></i>
 						Customer Relationship Management</a></li>
-						<li class="nav-item"><a href="http://onlinetest.igxprodus.com/" target="_blank" class="nav-link text-small pb-2 ">
+						<li class="nav-item"><a href="https://igxprodus.com/onlinetest-prodpg" target="_blank" class="nav-link text-small pb-2 ">
 						<i class="fa fa-address-card violet-icon"></i>
 						Online Testing</a></li>
                       </ul>
@@ -79,16 +79,16 @@
                     <div class="col-lg-4 mb-4">
                       <h6 class="font-weight-bold text-uppercase">Our Products</h6>
                       <ul class="list-unstyled">
-                        <li class="nav-item"><a href="http://erp.igxprodus.com/" target="_blank" class="nav-link text-small pb-2 ">
+                        <li class="nav-item"><a href="https://igxprodus.com/erp-prodpg" target="_blank" class="nav-link text-small pb-2 ">
 						<i class="fa fa-address-card violet-icon"></i>
 						ERP Software</a></li>
-                        <li class="nav-item"><a href="http://pos.igxprodus.com/" target="_blank" class="nav-link text-small pb-2 ">
+                        <li class="nav-item"><a href="https://igxprodus.com/posmgmt-prodpg" target="_blank" class="nav-link text-small pb-2 ">
 						<i class="fa fa-bar-chart cyan-icon"></i>
 						Retail POS</a></li>
-						<li class="nav-item"><a href="http://didyu.igxprodus.com/" target="_blank" class="nav-link text-small pb-2 ">
+						<li class="nav-item"><a href="https://igxprodus.com/taskmgmt-prodpg" target="_blank" class="nav-link text-small pb-2 ">
 						<i class="fa fa-calculator darkg-icon"></i>
 						Task Management System</a></li>
-						<li class="nav-item"><a href="http://financeapp.igxprodus.com/" target="_blank" class="nav-link text-small pb-2 ">
+						<li class="nav-item"><a href="https://igxprodus.com/financemgmt-prodpg" target="_blank" class="nav-link text-small pb-2 ">
 						<i class="fa fa-medkit blue-icon"></i>
 						Finance Software</a></li>
                       </ul>
@@ -97,13 +97,13 @@
 					<div class="col-lg-4 mb-4">
                       <h6 class="font-weight-bold text-uppercase">Our Products</h6>
                       <ul class="list-unstyled">
-                        <li class="nav-item"><a href="http://hms.igxprodus.com/" target="_blank" class="nav-link text-small pb-2 ">
+                        <li class="nav-item"><a href="https://igxprodus.com/hospitalmgmt-prodpg" target="_blank" class="nav-link text-small pb-2 ">
 						<i class="fa fa-heartbeat blue-icon"></i>
 						Hospital Management System</a></li>
-                        <li class="nav-item"><a href="http://tms.igxprodus.com/" target="_blank" class="nav-link text-small pb-2 ">
+                        <li class="nav-item"><a href="https://igxprodus.com/transportmgmt-prodpg" target="_blank" class="nav-link text-small pb-2 ">
 						<i class="fa fa-truck darkg-icon"></i>
 						Transport Management System</a></li>
-						<li class="nav-item"><a href="http://erp.igxprodus.com//" target="_blank" class="nav-link text-small pb-2 ">
+						<li class="nav-item"><a href="https://igxprodus.com/erp-prodpg" target="_blank" class="nav-link text-small pb-2 ">
 						<i class="fa fa-address-card violet-icon"></i>
 						ERP Software For Manufacturing</a></li>
                       </ul>
@@ -143,7 +143,7 @@
                                     <h1 data-animation="fadeInUp" data-delay=".4s">Products for all your Business Needs</h1>
                                     <p data-animation="fadeInUp" data-delay=".6s">Business made easy and productive with our adaptable products, Now enjoy your business.</p>
                                     <div class="slider-btn">
-                                        <a href="#" class="btn" data-animation="fadeInRight" data-delay=".8s">Take a Tour</a>
+                                        <a href="#products" class="btn" data-animation="fadeInRight" data-delay=".8s">Take a Tour</a>
                                     </div>
                                 </div>
                             </div>
@@ -177,7 +177,7 @@
             </div>
         </section>
         <!-- features-area-end -->
-        <div class="area-bg-wrapper pb-200 show_btn">
+        <div class="area-bg-wrapper pb-200 show_btn" id="products">
          
            
             <!-- best-features -->
@@ -195,10 +195,10 @@
                         <div class="col-lg-4 col-sm-6 blog-wrapper">
                             <div class="best-features-wrap mb-25 green-bf ">
                                 <div class="best-features-icon">
-                                   <a href="http://sma.igxprodus.com/" target="_blank"><i class="fa fa-stack-overflow green-icon"></i></a>
+                                   <a href="https://igxprodus.com/stockmgnt-prodpg" target="_blank"><i class="fa fa-stack-overflow green-icon"></i></a>
                                 </div>
                                 <div class="best-features-content">
-                                    <a href="http://sma.igxprodus.com/" target="_blank"><h4>Stock Management System</h4></a>
+                                    <a href="https://igxprodus.com/stockmgnt-prodpg" target="_blank"><h4>Stock Management System</h4></a>
                                     <p>We have a powerful Stock and Inventory management system that is easy to use. We Centralize the inventory management activities from one single system
                                     that helps you run your business efficiently.</p>
                                 </div>
@@ -206,7 +206,7 @@
 								<div class="row">
 								
 								<div class="col-md-6 left-50">
-										<a href="http://sma.igxprodus.com/" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+										<a href="https://igxprodus.com/stockmgnt-prodpg" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
 									</div>
 									<div class="col-md-6 right-50">
 										<a href="#" class="btn" data-toggle="modal" data-target="#myModalshow">Show Demo <i class="fas fa-long-arrow-alt-right"></i></a>
@@ -220,10 +220,10 @@
                         <div class="col-lg-4 col-sm-6 blog-wrapper">
                             <div class="best-features-wrap mb-25 red-bf">
                                 <div class="best-features-icon">
-                                    <a href="http://cms.igxprodus.com/" target="_blank"><i class="fa fa-hospital-o red-icon"></i></a>
+                                    <a href="https://igxprodus.com/clinicmgmt-prodpg/" target="_blank"><i class="fa fa-hospital-o red-icon"></i></a>
                                 </div>
                                 <div class="best-features-content">
-                                    <a href="http://cms.igxprodus.com/" target="_blank"><h4>Clinic Management System</h4></a>
+                                    <a href="https://igxprodus.com/clinicmgmt-prodpg/" target="_blank"><h4>Clinic Management System</h4></a>
                                     <p>Our clinic management software assists healthcare establishments by offering quality billing management. It simplifies and automates the billing process, removing the need for manual intervention.
                                     </p>
                                 </div>
@@ -231,7 +231,7 @@
 								<div class="row">
 								
 								<div class="col-md-6 left-50">
-										<a href="http://cms.igxprodus.com/" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+										<a href="https://igxprodus.com/clinicmgmt-prodpg/" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
 									</div>
 									<div class="col-md-6 right-50">
 										<a href="#" class="btn" data-toggle="modal" data-target=".clinicshow">Show Demo <i class="fas fa-long-arrow-alt-right"></i></a>
@@ -246,10 +246,10 @@
                         <div class="col-lg-4 col-sm-6 blog-wrapper">
                             <div class="best-features-wrap mb-25 blue-bf">
                                 <div class="best-features-icon">
-                                    <a href="http://hms.igxprodus.com/" target="_blank"><i class="fa fa-heartbeat blue-icon"></i></a>
+                                    <a href="https://igxprodus.com/hospitalmgmt-prodpg" target="_blank"><i class="fa fa-heartbeat blue-icon"></i></a>
                                 </div>
                                 <div class="best-features-content">
-                                    <a href="http://hms.igxprodus.com/" target="_blank"><h4>Hospital Management System</h4></a>
+                                    <a href="https://igxprodus.com/hospitalmgmt-prodpg" target="_blank"><h4>Hospital Management System</h4></a>
                                     <p> Our hospital management system is an integrated healthcare solution which includes Pharmacy, OP Management,Laboratory Information System, Insurance And Corporate Billing and much more.
                                     </p>
 									
@@ -258,7 +258,7 @@
 								<div class="row">
 								
 								<div class="col-md-6 left-50">
-										<a href="http://cms.igxprodus.com/" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+										<a href="https://igxprodus.com/hospitalmgmt-prodpg" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
 									</div>
 									<div class="col-md-6 right-50">
 										<a href="#" class="btn" data-toggle="modal" data-target=".hospitalshow">Show Demo <i class="fas fa-long-arrow-alt-right"></i></a>
@@ -271,10 +271,10 @@
                         <div class="col-lg-4 col-sm-6 blog-wrapper">
                             <div class="best-features-wrap mb-25 darkg-bf">
                                 <div class="best-features-icon">
-                                    <a href="http://tms.igxprodus.com/" target="_blank"><i class="fa fa-truck darkg-icon"></i></a>
+                                    <a href="https://igxprodus.com/transportmgmt-prodpg" target="_blank"><i class="fa fa-truck darkg-icon"></i></a>
                                 </div>
                                 <div class="best-features-content">
-                                    <a href="http://tms.igxprodus.com/" target="_blank"><h4>Transport Management System</h4></a>
+                                    <a href="https://igxprodus.com/transportmgmt-prodpg" target="_blank"><h4>Transport Management System</h4></a>
                                     <p> Our transportation management System (TMS) designed for companies of all sizes. Features include billing and invoicing, load management, order management, shipment management, reporting, scheduling and more.</p>
 								
                             </div>
@@ -282,7 +282,7 @@
 							<div class="row">
 								
 								<div class="col-md-6 left-50">
-										<a href="http://tms.igxprodus.com/" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+										<a href="https://igxprodus.com/transportmgmt-prodpg" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
 									</div>
 									<div class="col-md-6 right-50">
 										<a href="#" class="btn" data-toggle="modal" data-target=".transportationshow">Show Demo <i class="fas fa-long-arrow-alt-right"></i></a>
@@ -295,17 +295,17 @@
 						<div class="col-lg-4 col-sm-6 blog-wrapper">
                             <div class="best-features-wrap mb-25 violet-bf">
                                 <div class="best-features-icon">
-                                    <a href="http://erp.igxprodus.com/" target="_blank"><i class="fa fa-address-card violet-icon"></i></a>
+                                    <a href="https://igxprodus.com/erp-prodpg" target="_blank"><i class="fa fa-address-card violet-icon"></i></a>
                                 </div>
                                 <div class="best-features-content">
-                                    <a href="http://erp.igxprodus.com/" target="_blank"><h4>ERP Software</h4></a>
+                                    <a href="https://igxprodus.com/erp-prodpg" target="_blank"><h4>ERP Software</h4></a>
                                     <p> Our ERP software integrates various functions into one complete system to streamline processes and information across the entire application which helps you manage day-to-day business activities.</p>
 								
                             </div>
 							<div class="row">
 								
 								<div class="col-md-6 left-50">
-										<a href="http://erp.igxprodus.com/" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+										<a href="https://igxprodus.com/erp-prodpg" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
 									</div>
 									<div class="col-md-6 right-50">
 										<a href="#" class="btn" data-toggle="modal" data-target=".ERPshow">Show Demo <i class="fas fa-long-arrow-alt-right"></i></a>
@@ -317,10 +317,10 @@
                         <div class="col-lg-4 col-sm-6 blog-wrapper">
                             <div class="best-features-wrap mb-25 cyan-bf">
                                 <div class="best-features-icon">
-                                    <a href="http://pos.igxprodus.com/" target="_blank"><i class="fa fa-bar-chart cyan-icon"></i></a>
+                                    <a href="https://igxprodus.com/posmgmt-prodpg" target="_blank"><i class="fa fa-bar-chart cyan-icon"></i></a>
                                 </div>
                                 <div class="best-features-content">
-                                    <a href="http://pos.igxprodus.com/" target="_blank"><h4>Retail POS</h4></a>
+                                    <a href="https://igxprodus.com/posmgmt-prodpg" target="_blank"><h4>Retail POS</h4></a>
                                     <p> We will help you manage the Inventory and Billing for your Business. Take control of your business and save time doing manual work! Get our Retail POS Software today!
                                     </p>
 								
@@ -328,7 +328,7 @@
 								<div class="row">
 								
 								<div class="col-md-6 left-50">
-										<a href="http://pos.igxprodus.com/" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+										<a href="https://igxprodus.com/posmgmt-prodpg" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
 									</div>
 									<div class="col-md-6 right-50">
 										<a href="#" class="btn" data-toggle="modal" data-target=".retailshow">Show Demo <i class="fas fa-long-arrow-alt-right"></i></a>
@@ -340,10 +340,10 @@
 						<div class="col-lg-4 col-sm-6 blog-wrapper">
                             <div class="best-features-wrap mb-25 cyan-bf">
                                 <div class="best-features-icon">
-                                    <a href="http://crm.igxprodus.com/" target="_blank"><i class="fa fa-dedent crm-icon"></i></a>
+                                    <a href="https://igxprodus.com/crm-prodpg/" target="_blank"><i class="fa fa-dedent crm-icon"></i></a>
                                 </div>
                                 <div class="best-features-content">
-                                    <a href="http://crm.igxprodus.com/" target="_blank"><h4>Customer Relationship Management</h4></a>
+                                    <a href="https://igxprodus.com/crm-prodpg/" target="_blank"><h4>Customer Relationship Management</h4></a>
                                     <p> Customer relationship management (CRM) is the combination of practices, strategies and technologies that companies use to manage and analyze customer interactions and data throughout the customer lifecycle, with the goal of improving customer service relationships and assisting in customer retention and driving sales growthin.
                                     </p>
 								
@@ -351,7 +351,7 @@
 								<div class="row">
 								
 								<div class="col-md-6 left-50">
-										<a href="http://pos.igxprodus.com/" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+										<a href="https://igxprodus.com/crm-prodpg/" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
 									</div>
 									<div class="col-md-6 right-50">
 										<a href="#" class="btn" data-toggle="modal" data-target=".crmshow">Show Demo <i class="fas fa-long-arrow-alt-right"></i></a>
@@ -364,10 +364,10 @@
 						<div class="col-lg-4 col-sm-6 blog-wrapper">
                             <div class="best-features-wrap mb-25 cyan-bf">
                                 <div class="best-features-icon">
-                                    <a href="http://didyu.igxprodus.com/" target="_blank"><i class="fa fa-file-image-o task-icon"></i></a>
+                                    <a href="https://igxprodus.com/taskmgmt-prodpg" target="_blank"><i class="fa fa-file-image-o task-icon"></i></a>
                                 </div>
                                 <div class="best-features-content">
-                                    <a href="http://didyu.igxprodus.com/" target="_blank"><h4>Task Management System</h4></a>
+                                    <a href="https://igxprodus.com/taskmgmt-prodpg" target="_blank"><h4>Task Management System</h4></a>
                                     <p> Task management is the process of managing a task through its life cycle. It involves planning, testing, tracking, and reporting.Project managers adhering to task-oriented management have a detailed and up-to-date project schedule, and are usually good at directing team members and moving the project forward.
                                     </p>
 								
@@ -375,7 +375,7 @@
 								<div class="row top_new_mar">
 								
 								<div class="col-md-6 left-50">
-										<a href="http://didyu.igxprodus.com/" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+										<a href="https://igxprodus.com/taskmgmt-prodpg" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
 									</div>
 									<div class="col-md-6 right-50">
 										<a href="#" class="btn" data-toggle="modal" data-target=".taskshow">Show Demo <i class="fas fa-long-arrow-alt-right"></i></a>
@@ -388,10 +388,10 @@
 						<div class="col-lg-4 col-sm-6 blog-wrapper">
                             <div class="best-features-wrap mb-25 cyan-bf">
                                 <div class="best-features-icon">
-                                    <a href="http://financeapp.igxprodus.com/" target="_blank"><i class="fa fa-area-chart online-icon"></i></a>
+                                    <a href="https://igxprodus.com/financemgmt-prodpg" target="_blank"><i class="fa fa-area-chart online-icon"></i></a>
                                 </div>
                                 <div class="best-features-content">
-                                    <a href="http://financeapp.igxprodus.com/" target="_blank"><h4>IGX Finance Application</h4></a>
+                                    <a href="https://igxprodus.com/financemgmt-prodpg" target="_blank"><h4>IGX Finance Application</h4></a>
                                     <p>Financial software is a type of software that is specifically designed to automate, assist and store financial information of a personal or business nature. It handles the storage, analysis, management and processing of a set of financial transactions, records and processes.
                                     </p>
 								
@@ -399,7 +399,28 @@
 								<div class="row top_new_mar1">
 								
 								<div class="col-md-6 left-50">
-										<a href="http://financeapp.igxprodus.com/" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+										<a href="https://igxprodus.com/financemgmt-prodpg" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+									</div>
+									<div class="col-md-6 right-50">
+										<a href="#" class="btn" data-toggle="modal" data-target=".finance">Show Demo <i class="fas fa-long-arrow-alt-right"></i></a>
+									</div>
+								
+								</div>
+                            </div>
+                        </div>
+						
+						<div class="col-lg-4 col-sm-6 blog-wrapper">
+                            <div class="best-features-wrap mb-25 cyan-bf">
+                                <div class="best-features-icon">
+                                    <a href="https://igxprodus.com/onlinetest-prodpg" target="_blank"><i class="fa fa-address-card violet-icon"></i></a>
+                                </div>
+                                <div class="best-features-content">
+                                  <a href="https://igxprodus.com/onlinetest-prodpg" target="_blank"><h4>Online Testing</h4></a>
+                                    <p>Online Examination System is a technology-driven way to simplify examination activities like defining exam patterns with question banks, defining exam timer, objective/ subjective question sections, conducting exams using the computer or mobile devices in a paperless manner.</p></div>
+								<div class="row top_new_mar1">
+								
+								<div class="col-md-6 left-50">
+										<a href="https://igxprodus.com/onlinetest-prodpg" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
 									</div>
 									<div class="col-md-6 right-50">
 										<a href="#" class="btn" data-toggle="modal" data-target=".onlineshow">Show Demo <i class="fas fa-long-arrow-alt-right"></i></a>
@@ -408,6 +429,7 @@
 								</div>
                             </div>
                         </div>
+						
 						
 						
 						
@@ -1044,7 +1066,7 @@ $('.forgot-btn').click(function(){
 		<div class="row">
 		
 		<div class="col-md-12 padd-sty-bott-new">
-		<a href="http://sma.igxprodus.com/igx-stock" target="_blank">Click here for Application Login</a>
+		<a href="https://igxprodus.com/stockmgnt/login.php" target="_blank">Click here for Application Login</a>
 		</div>
 		
 						<div class="col-md-4">
@@ -1170,7 +1192,7 @@ $('.forgot-btn').click(function(){
 		<div class="row">
 		
 		<div class="col-md-12 padd-sty-bott-new">
-		<a href="http://hms.igxprodus.com/igx-hms" target="_blank">Click here for Application Login</a>
+		<a href="https://igxprodus.com/hospitalmgmt" target="_blank">Click here for Application Login</a>
 		</div>
 		
 						<div class="col-md-4">
@@ -1232,7 +1254,7 @@ $('.forgot-btn').click(function(){
 		<div class="row">
 		
 		<div class="col-md-12 padd-sty-bott-new">
-		<a href="http://tms.igxprodus.com/tms_softawre/app/signin.php" target="_blank">Click here for Application Login</a>
+		<a href="https://igxprodus.com/transportmgmt" target="_blank">Click here for Application Login</a>
 		</div>
 		
 						<div class="col-md-4">
@@ -1294,7 +1316,7 @@ $('.forgot-btn').click(function(){
 		<div class="row">
 		
 		<div class="col-md-12 padd-sty-bott-new">
-		<a href="http://erp.igxprodus.com/igx-erp/" target="_blank">Click here for Application Login</a>
+		<a href="https://igxprodus.com/erp" target="_blank">Click here for Application Login</a>
 		</div>
 		
 						<div class="col-md-4">
@@ -1356,7 +1378,7 @@ $('.forgot-btn').click(function(){
 		<div class="row">
 		
 		<div class="col-md-12 padd-sty-bott-new">
-		<a href="http://pos.igxprodus.com/" target="_blank">Click here for Application Login</a>
+		<a href="https://igxprodus.com/pos" target="_blank">Click here for Application Login</a>
 		</div>
 		
 						<div class="col-md-4">
@@ -1421,7 +1443,7 @@ $('.forgot-btn').click(function(){
 		<div class="row">
 		
 		<div class="col-md-12 padd-sty-bott-new">
-		<a href="http://crm.igxprodus.com/igx-crm" target="_blank">Click here for Application Login</a>
+		<a href="https://igxprodus.com/crm" target="_blank">Click here for Application Login</a>
 		</div>
 		
 						<div class="col-md-4">
@@ -1484,7 +1506,7 @@ $('.forgot-btn').click(function(){
 		<div class="row">
 		
 		<div class="col-md-12 padd-sty-bott-new">
-		<a href="http://crm.igxprodus.com/igx-crm" target="_blank">Click here for Application Login</a>
+		<a href="https://igxprodus.com/taskmgmt" target="_blank">Click here for Application Login</a>
 		</div>
 		
 						<div class="col-md-4">
@@ -1496,7 +1518,7 @@ $('.forgot-btn').click(function(){
 						</div>
 						
 						<div class="col-md-6">
-						<p>crmadmin</p>
+						<p>admin@gmail.com</p>
 						</div>
 						
 						
@@ -1508,7 +1530,7 @@ $('.forgot-btn').click(function(){
 						</div>
 						
 						<div class="col-md-6">
-						<p>kuberan$#1</p>
+						<p>123456</p>
 						</div>
 		
 		
@@ -1532,8 +1554,8 @@ $('.forgot-btn').click(function(){
 
 
 
-<!--Online test Start-->
-<div id="myModalshow" class="modal fade onlineshow" role="dialog">
+<!--Finance test Start-->
+<div id="myModalshow" class="modal fade finance" role="dialog">
   <div class="modal-dialog">
 
     <!-- Modal content-->
@@ -1546,7 +1568,7 @@ $('.forgot-btn').click(function(){
 		<div class="row">
 		
 		<div class="col-md-12 padd-sty-bott-new">
-		<a href="https://igxprodus.com/sakthifinance/" target="_blank">Click here for Application Login</a>
+		<a href="https://igxprodus.com/financemgmt/" target="_blank">Click here for Application Login</a>
 		</div>
 		
 						<div class="col-md-4">
@@ -1558,7 +1580,69 @@ $('.forgot-btn').click(function(){
 						</div>
 						
 						<div class="col-md-6">
-						<p>admin</p>
+						<p>dinesh</p>
+						</div>
+						
+						
+						<div class="col-md-4">
+						<p>Password</p>
+						</div>
+						<div class="col-md-1">
+						<span class="dot-sty-css">:</span>
+						</div>
+						
+						<div class="col-md-6">
+						<p>dinesh4545</p>
+						</div>
+		
+		
+		</div>
+		
+
+		
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default app_btn_sty_new" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+
+
+<!--Finance test end-->
+
+
+
+<!--Online test Start-->
+<div id="myModalshow" class="modal fade onlineshow" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title">IGX Online Testing</h4>
+      </div>
+      <div class="modal-body">
+      
+		<div class="row">
+		
+		<div class="col-md-12 padd-sty-bott-new">
+		<a href="https://igxprodus.com/onlinetestapp" target="_blank">Click here for Application Login</a>
+		</div>
+		
+						<div class="col-md-4">
+						<p>User Name</p>
+						</div>
+						
+						<div class="col-md-1">
+						<span class="dot-sty-css">:</span>
+						</div>
+						
+						<div class="col-md-6">
+						<p>onlinetest@gmail.com</p>
 						</div>
 						
 						
