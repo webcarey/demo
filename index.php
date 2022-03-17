@@ -46,9 +46,9 @@
   <div id="navbarContent" class="collapse navbar-collapse">
     <ul class="navbar-nav mx-auto mx-auto-right">
       <!-- Megamenu mx-auto-->
-     <li class="nav-item dropdown megamenu"><a id="megamneu" href="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link dropdown-toggle font-weight-bold text-uppercase">PRODUCTS</a> 
+     <li class="nav-item dropdown megamenu"><a id="megamneu" href="#products" data-toggle="" aria-haspopup="true" aria-expanded="false" class="nav-link font-weight-bold text-uppercase">PRODUCTS</a> 
       <!-- <li class="nav-item dropdown megamenu"><a id="megamneu" href="javascript:void(0)" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link common-modal-open dropdown-toggle font-weight-bold text-uppercase">PRODUCTS</a>-->
-        <div aria-labelledby="megamneu" class="dropdown-menu border-0 p-0 m-0">
+       <!--  <div aria-labelledby="megamneu" class="dropdown-menu border-0 p-0 m-0">
           <div class="container container-fluid-o">
             <div class="row bg-white rounded-0 m-0 shadow-sm">
               <div class="col-lg-12 col-xl-12">
@@ -57,10 +57,10 @@
                     <div class="col-lg-4 mb-4">
                       <h6 class="font-weight-bold text-uppercase">Our Products</h6>
                       <ul class="list-unstyled">
-                        <li class="nav-item"><a href="https://igxprodus.com/stockmgnt-prodpg" target="_blank" class="nav-link text-small pb-2">
+                        <li class="nav-item"><a href="https://igxprodus.com/stockmgnt-prodpg" target="_blank" class="nav-link text-small pb-2"> -->
                             <!--<li class="nav-item"><a href="javascript:void(0)"  class="nav-link common-modal-open text-small pb-2">-->
                             <!--<li class="nav-item dropdown megamenu"><a id="megamneu" href="javascript:void(0)" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link common-modal-open dropdown-toggle font-weight-bold text-uppercase">-->
-						<i class="fa fa-stack-overflow green-icon"></i>
+						<!-- <i class="fa fa-stack-overflow green-icon"></i>
 						Stock Management System
 						
 						
@@ -114,7 +114,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
       </li>
       <li class="nav-item"><a href="#" class="nav-link font-weight-bold text-uppercase" data-toggle="modal" data-target="#myModal">SUPPORT</a></li>
       <!--<li class="nav-item"><a href="" class="nav-link font-weight-bold text-uppercase" data-toggle="modal" data-target="#myModal">TRY FOR FREE</a></li>-->
@@ -1580,7 +1580,7 @@ $('.forgot-btn').click(function(){
 						</div>
 						
 						<div class="col-md-6">
-						<p>dinesh</p>
+						<p>finadmin</p>
 						</div>
 						
 						
@@ -1592,7 +1592,7 @@ $('.forgot-btn').click(function(){
 						</div>
 						
 						<div class="col-md-6">
-						<p>dinesh4545</p>
+						<p>f!n@dmin</p>
 						</div>
 		
 		
