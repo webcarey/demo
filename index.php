@@ -206,7 +206,8 @@
 								<div class="row">
 								
 								<div class="col-md-6 left-50">
-										<a href="https://igxprodus.com/stockmgnt-prodpg" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+                    <a href="#" data-toggle="modal" data-target="#myModalshow" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+										<!-- <a href="https://igxprodus.com/stockmgnt-prodpg" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a> -->
 									</div>
 									<div class="col-md-6 right-50">
 										<a href="#" class="btn" data-toggle="modal" data-target="#myModalshow">Show Demo <i class="fas fa-long-arrow-alt-right"></i></a>
@@ -231,7 +232,8 @@
 								<div class="row">
 								
 								<div class="col-md-6 left-50">
-										<a href="https://igxprodus.com/clinicmgmt-prodpg/" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+                    <a href="#" data-toggle="modal" data-target="#myModalshow" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+										<!-- <a href="https://igxprodus.com/clinicmgmt-prodpg/" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a> -->
 									</div>
 									<div class="col-md-6 right-50">
 										<a href="#" class="btn" data-toggle="modal" data-target=".clinicshow">Show Demo <i class="fas fa-long-arrow-alt-right"></i></a>
@@ -258,7 +260,8 @@
 								<div class="row">
 								
 								<div class="col-md-6 left-50">
-										<a href="https://igxprodus.com/hospitalmgmt-prodpg" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+                  <a href="#" data-toggle="modal" data-target="#myModalshow" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+										<!-- <a href="https://igxprodus.com/hospitalmgmt-prodpg" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a> -->
 									</div>
 									<div class="col-md-6 right-50">
 										<a href="#" class="btn" data-toggle="modal" data-target=".hospitalshow">Show Demo <i class="fas fa-long-arrow-alt-right"></i></a>
@@ -282,7 +285,8 @@
 							<div class="row">
 								
 								<div class="col-md-6 left-50">
-										<a href="https://igxprodus.com/transportmgmt-prodpg" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+                  <a href="#" data-toggle="modal" data-target="#myModalshow" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+										<!-- <a href="https://igxprodus.com/transportmgmt-prodpg" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a> -->
 									</div>
 									<div class="col-md-6 right-50">
 										<a href="#" class="btn" data-toggle="modal" data-target=".transportationshow">Show Demo <i class="fas fa-long-arrow-alt-right"></i></a>
@@ -305,7 +309,8 @@
 							<div class="row">
 								
 								<div class="col-md-6 left-50">
-										<a href="https://igxprodus.com/erp-prodpg" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+                  <a href="#" data-toggle="modal" data-target="#myModalshow" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+										<!-- <a href="https://igxprodus.com/erp-prodpg" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a> -->
 									</div>
 									<div class="col-md-6 right-50">
 										<a href="#" class="btn" data-toggle="modal" data-target=".ERPshow">Show Demo <i class="fas fa-long-arrow-alt-right"></i></a>
@@ -328,7 +333,8 @@
 								<div class="row">
 								
 								<div class="col-md-6 left-50">
-										<a href="https://igxprodus.com/posmgmt-prodpg" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+                  <a href="#" data-toggle="modal" data-target="#myModalshow" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+										<!-- <a href="https://igxprodus.com/posmgmt-prodpg" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a> -->
 									</div>
 									<div class="col-md-6 right-50">
 										<a href="#" class="btn" data-toggle="modal" data-target=".retailshow">Show Demo <i class="fas fa-long-arrow-alt-right"></i></a>
@@ -351,7 +357,8 @@
 								<div class="row">
 								
 								<div class="col-md-6 left-50">
-										<a href="https://igxprodus.com/crm-prodpg/" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+                  <a href="#" data-toggle="modal" data-target="#myModalshow" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+										<!-- <a href="https://igxprodus.com/crm-prodpg/" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a> -->
 									</div>
 									<div class="col-md-6 right-50">
 										<a href="#" class="btn" data-toggle="modal" data-target=".crmshow">Show Demo <i class="fas fa-long-arrow-alt-right"></i></a>
@@ -375,7 +382,8 @@
 								<div class="row top_new_mar">
 								
 								<div class="col-md-6 left-50">
-										<a href="https://igxprodus.com/taskmgmt-prodpg" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+                    <a href="#" data-toggle="modal" data-target="#myModalshow" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+										<!-- <a href="https://igxprodus.com/taskmgmt-prodpg" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a> -->
 									</div>
 									<div class="col-md-6 right-50">
 										<a href="#" class="btn" data-toggle="modal" data-target=".taskshow">Show Demo <i class="fas fa-long-arrow-alt-right"></i></a>
@@ -399,7 +407,8 @@
 								<div class="row top_new_mar1">
 								
 								<div class="col-md-6 left-50">
-										<a href="https://igxprodus.com/financemgmt-prodpg" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+                    <a href="#" data-toggle="modal" data-target="#myModalshow" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+										<!-- <a href="https://igxprodus.com/financemgmt-prodpg" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a> -->
 									</div>
 									<div class="col-md-6 right-50">
 										<a href="#" class="btn" data-toggle="modal" data-target=".finance">Show Demo <i class="fas fa-long-arrow-alt-right"></i></a>
@@ -420,7 +429,8 @@
 								<div class="row top_new_mar1">
 								
 								<div class="col-md-6 left-50">
-										<a href="https://igxprodus.com/onlinetest-prodpg" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+                    <a href="#" data-toggle="modal" data-target="#myModalshow" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a>
+										<!-- <a href="https://igxprodus.com/onlinetest-prodpg" target="_blank" class="btn btn_bule">Try For Free<i class="fas fa-long-arrow-alt-right"></i></a> -->
 									</div>
 									<div class="col-md-6 right-50">
 										<a href="#" class="btn" data-toggle="modal" data-target=".onlineshow">Show Demo <i class="fas fa-long-arrow-alt-right"></i></a>
@@ -1674,7 +1684,7 @@ $('.forgot-btn').click(function(){
 
 
 
-<!---Online test end--->
+<!--Online test end-->
 
 
 
